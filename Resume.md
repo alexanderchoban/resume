@@ -9,16 +9,16 @@ Alexander has over ten years of experience applying technology to business needs
 Eclipse, xCode, Dreamweaver, Adobe Photoshop, Visio
 * **Languages:** ASP.NET Core C#, Node/ES6, ASP.NET C#, .NET C#, Classic ASP (VB6), HTML, Web Browser Javascript, JQuery, Objective-C
 (iPhone Development), PHP, Linux Bash Script
-* **Project Management Tools** Jira, TFS, ConnectWise
-* **Databases** Mongo and Extensive knowledge of Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing in MSSQL and MySQL
+* **Project Management Tools:** Jira, TFS, ConnectWise
+* **Databases:** Mongo and Extensive knowledge of Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing in MSSQL and MySQL
 * **Hardware** Ability to replace memory, hard drives, etc. on both desktops and servers. Ability to
 configure and debug basic network hardware.
-* **Applications** Ecommerce websites, marketing websites, back end order processing, tracking, and
+* **Applications:** Ecommerce websites, marketing websites, back end order processing, tracking, and
 reporting, call center order entry
-* **Industries** Ecommerce, Call Center Systems, Internet Marketing, Health Insurance Administration,
+* **Industries:** Ecommerce, Call Center Systems, Internet Marketing, Health Insurance Administration,
 Catalog Mail Order
 * Operating Systems Windows, Windows Server, Mac OSX, Ubuntu &amp; Debian Linux
-* **Tools** Constant Contact, Google AdWords, Google Analytics, ShareASale
+* **Tools:** Constant Contact, Google AdWords, Google Analytics, ShareASale
 
 ## Work Experience
 
