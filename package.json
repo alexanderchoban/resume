@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Alexander Choban's resume.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderchoban/resume.git"
+  },
+  "author": "Alexander Choban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanderchoban/resume/issues"
+  },
+  "homepage": "https://github.com/alexanderchoban/resume#readme",
+  "dependencies": {
+    "markdown-pdf": "^8.1.0"
+  }
+}
