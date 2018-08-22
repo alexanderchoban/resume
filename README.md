@@ -7,5 +7,8 @@ npm install
 npm run build
 ```
 
-## Prebuilt PDF
-[Click here](Resume.pdf) for a prebuilt PDF of the resume.
+## mark down source
+[Click here](Resume.md) the md source.
+
+## prebuild PDF
+[Click here](AlexanderChobanResume.pdf) for a prebuilt PDF of the resume.

@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alexanderchoban/resume#readme",
   "dependencies": {
-    "markdown-pdf": "^8.1.0"
+    "markdown-pdf": "^8.1.1"
   }
 }

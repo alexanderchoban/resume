@@ -3,4 +3,4 @@ var markdownpdf = require("markdown-pdf")
 
 fs.createReadStream("Resume.md")
   .pipe(markdownpdf())
-  .pipe(fs.createWriteStream("Resume.pdf"))
+  .pipe(fs.createWriteStream("AlexanderChobanResume.pdf"))
