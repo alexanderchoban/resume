@@ -2,15 +2,13 @@
 https://github.com/alexanderchoban
 
 ## Overview
-Alexander has over ten years of experience applying technology to business needs. He has an extremely wide variety of skills including programming in C# / .NET & .NET Core, Node, Angular, ASP, VB Script and JavaScript, business analysis, architecting databases and writing complex queries, server administration, and project management. One of Alexander’s strongest assets is his ability to automate processes and solve complex problems. Alexander has a long history in online marketing and ecommerce solutions. He has helped clients use SEO, advertising, and affiliate programs to increase ecommerce sales. On top of Alexander’s technical prowess, he also has the acumen to work with people. He has worked with clients to develop and document business requirements and has managed and mentored programmers while working on large and small scale projects. This mix of technical knowledge, ability to solve problems, and strong people skills makes Alexander a star player on any technical team.
+Alexander is a strong and robust React and Redux developer with over ten years of experience applying technology to business needs. He has an extremely wide variety of skills including programming in EcmaScript, C#, and VB Script, business analysis, architecting databases and writing complex queries, server administration, and project management. One of Alexander’s strongest assets is his ability to automate processes and solve complex problems. Alexander has a long history in online marketing and ecommerce solutions. He has helped clients use SEO, advertising, and affiliate programs to increase ecommerce sales. On top of Alexander’s technical prowess, he also has the acumen to work with people. He has worked with clients to develop and document business requirements and has managed and mentored programmers while working on large and small-scale projects. This mix of technical knowledge, ability to solve problems, and strong people skills makes Alexander a star player on any technical team.
 
 ## Technical Skills
-* **Software:** Visual Studio Code, Git, Docker, Visual Studio 2008+, Team Foundation Server, SQL Server Management Studio
-Eclipse, xCode, Dreamweaver, Adobe Photoshop, Visio
-* **Languages:** ASP.NET Core C#, Node/ES6, ASP.NET C#, .NET C#, Classic ASP (VB6), HTML, Web Browser Javascript, JQuery, Objective-C
-(iPhone Development), PHP, Linux Bash Script
+* **Software:** Visual Studio Code, Git, Docker, Visual Studio, Team Foundation Server, SQL Server Management Studio, xCode, Adobe Photoshop, Visio
+* **Languages:** ASP.NET Core C#, Node and EcmaScript, ASP.NET C#, .NET C#, Classic ASP (VB6), HTML, Web Browser Javascript, JQuery, Objective-C, PHP, Linux Bash
 * **Project Management Tools:** Jira, TFS, ConnectWise
-* **Databases:** Mongo and Extensive knowledge of Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing in MSSQL and MySQL
+* **Databases:** Mongo, SQL, MySQL with extensive knowledge of Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing
 * **Hardware** Ability to replace memory, hard drives, etc. on both desktops and servers. Ability to
 configure and debug basic network hardware.
 * **Applications:** Ecommerce websites, marketing websites, back end order processing, tracking, and
@@ -22,13 +20,25 @@ Catalog Mail Order
 
 ## Work Experience
 
+### Taylor Digital
+2018 - Present
+
+**Software Engineer**
+* React and Redux engineer
+* Writes jest and enzyme unit tests with 100% code coverage
+* Develops complex applications
+* Performs code reviews
+* Assists in setting coding standards via prettier and eslint
+* Uses docker to build and test containers
+* Works with an agile team and participates in ceromonies
+
 ### Progressive Impressions International - Bloomington, IL
 Now goes to market as Taylor Communications
-2014 - Present
+2014 - 2018
 
 **Software Engineer**
 * Supported legacy ecommerce system built on Orchard
-* Help architect services based ecommerce system with ASP.NET Core and Docker
+* Architected services based ecommerce system with ASP.NET Core and Docker
 * Created OAuth system using Identity Server and SQL Server
 * Created dynamic, segregated, database service with RSA encrypted connection strings per app
 * Used Mongo to store dynamic customer data
