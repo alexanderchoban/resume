@@ -4,7 +4,7 @@
   "description": "Alexander Choban's resume.",
   "main": "index.js",
   "scripts": {
-    "build": "markdown-pdf -s resume.css -o AlexanderChobanResume.pdf Resume.md"
+    "build": "markdown-pdf -f Letter -b 0.75in -s resume.css -o AlexanderChobanResume.pdf Resume.md"
   },
   "repository": {
     "type": "git",
