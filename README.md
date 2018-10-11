@@ -8,7 +8,7 @@ npm run build
 ```
 
 ## mark down source
-[Click here](Resume.md) the md source.
+[Click here](Resume.md) for the md source.
 
 ## prebuild PDF
 [Click here](AlexanderChobanResume.pdf) for a prebuilt PDF of the resume.
