@@ -4,7 +4,7 @@
 </div>
 
 ## Overview
-Alexander is a strong and robust application analyst with over ten years of experience applying technology to institutional needs. He has an extremely wide variety of skills including business analysis, project management, architecting databases, writing complex queries, programming in C#, Javascript, and VB Script, and server administration. One of Alexander’s strongest assets is his ability to automate processes and solve complex problems. On top of Alexander’s technical prowess, he also has the acumen to work with people. He has worked with clients to develop and document business requirements in addition to managing and mentoring programmers while working on large and small-scale projects. This mix of technical knowledge, ability to solve problems, and strong people skills makes Alexander a star player on any team.
+Alexander is a strong and robust full stack developer and team leader with over ten years of experience applying technology to business needs. He has an extremely wide variety of skills including programming in C#, EcmaScript/Javascript, and VB Script, business analysis, architecting databases, writing complex queries, server administration, and project management. One of Alexander’s strongest assets is his ability to automate processes and solve complex problems. Alexander has a long history in online marketing and ecommerce solutions. He has helped clients use SEO, advertising, and affiliate programs to increase ecommerce sales. On top of Alexander’s technical prowess, he also has the acumen to work with people. He has worked with clients to develop and document business requirements in addition to managing and mentoring programmers while working on large and small-scale projects. This mix of technical knowledge, ability to solve problems, and strong people skills makes Alexander a star player on any technical team.
 
 ## Technical Skills
 * **Databases:** SQL, MySQL, and Mongo. Extensive knowledge of SQL Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing
@@ -21,6 +21,15 @@ Alexander is a strong and robust application analyst with over ten years of expe
 2014 - Present
 <br />
 
+**Software Engineer and Team Lead**
+* React and Redux engineer
+* ASP.NET API engineer
+* Managed SQL database design and migrations
+* Wrote unit tests with 100% code coverage
+* Performed code reviews
+* Assisted in setting coding standards via prettier and eslint
+* Used docker to build and test containers
+
 **Technical Business Analyst**
 * Worked on an Agile Development team in a quality first and constantly improving environment
 * Led internal team meetings including, Stand ups, Retros, and Sprint Planning
@@ -29,15 +38,6 @@ Alexander is a strong and robust application analyst with over ten years of expe
 * Created reports and analyses based on internal and client data
 * Created user interface guides, functional specification documents, and test scripts
 * Worked with supervisors and managers to develop and maintain the workflow used for the internal issue and ticket tracking software JIRA
-
-**Software Engineer**
-* React and Redux engineer
-* ASP.NET API engineer
-* Managed SQL database design and migrations
-* Wrote unit tests with 100% code coverage
-* Performed code reviews
-* Assisted in setting coding standards via prettier and eslint
-* Used docker to build and test containers
 
 ### White Oak Technology Group - Bloomington, IL
 Formally ComeToBuy, Inc.
