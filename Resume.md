@@ -4,7 +4,7 @@
 </div>
 
 ## Overview
-Alexander is a robust full stack software engineer and technical lead with a strong work ethic and over ten years of experience applying technology to business needs. He has an extremely wide variety of skills including React, javascript, CSS, docker, C#, business analysis, database management, server administration, and project management. Alexander has a long history of automating processes, providing solutions, developing ecommerce platforms, and building custom applications. On top of Alexander’s technical prowess, he also has the business acumen and communication skills to work well with others. He has worked with clients to develop and document business requirements in addition to leading and mentoring programmers while working on large and small-scale projects. This mix of technical knowledge, ability to provide solutions, and excellent people skills makes Alexander a star player on any technical team.
+Alexander is a robust full stack software engineer and technical lead with a strong work ethic and over ten years of experience applying technology to business needs. He has an extremely wide variety of skills including React, Javascript, CSS, Docker, C#, business analysis, database management, server administration, and project management. Alexander has a long history of automating processes, providing solutions, developing ecommerce platforms, and building custom applications. On top of Alexander’s technical prowess, he also has the business acumen and communication skills to work well with others. He has worked with clients to develop and document business requirements in addition to leading and mentoring programmers while working on large and small-scale projects. This mix of technical knowledge, ability to provide solutions, and excellent people skills makes Alexander a star player on any technical team.
 
 ## Technical Skills
 * **Development:** React, Javascript, CSS, Redux-Saga, React Material-UI, Jest, Enzyme, JQuery, Docker, Git, Prettier, Eslint, ASP.NET C#, HTML, Bootstrap, &amp; PHP
@@ -21,12 +21,12 @@ Alexander is a robust full stack software engineer and technical lead with a str
 <br />
 
 **React Technical Lead**
-* Technical Lead for a team of six developers developing a UI for an ecommerce application
+* Technical Lead for a team of six developing a ecommerce React UI
 * Developed modern React and Redux applications using container component design
 * Designed and created a component library for React applications
 * Led development and documentation of programming and testing standards
-* Partnered with UX team to create design standards and patterns that fit accessibility and branding guidelines
-* Communicated team status to POs, team leads, and management
+* Partnered with UX team to create design patterns that fit accessibility and branding guidelines
+* Communicated team status and accomplishments to POs, team leads, and management
 * Performed code reviews of other developers' code
 
 **.NET Software Engineer**
