@@ -7,12 +7,12 @@
 Alexander is a robust full stack software engineer and technical lead with a strong work ethic and over ten years of experience applying technology to business needs. He has an extremely wide variety of skills including React, Javascript, CSS, Docker, C#, business analysis, database management, server administration, and project management. Alexander has a long history of automating processes, providing solutions, developing ecommerce platforms, and building custom applications. On top of Alexander’s technical prowess, he also has the business acumen and communication skills to work well with others. He has worked with clients to develop and document business requirements in addition to leading and mentoring programmers while working on large and small-scale projects. This mix of technical knowledge, ability to provide solutions, and excellent people skills makes Alexander a star player on any technical team.
 
 ## Technical Skills
-* **Development:** React, Javascript, CSS, Redux-Saga, React Material-UI, Jest, Enzyme, JQuery, Docker, Git, Prettier, Eslint, ASP.NET C#, HTML, Bootstrap, &amp; PHP
-* **Databases:** SQL, MySQL, and Mongo. Knowledge includes SQL Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing
-* **Software:** Visual Studio, VSCode, SQL Server Management Studio, Team Foundation Server, xCode, Adobe Photoshop, Access, Visio, Word, Excel
-* **Project Management Tools:** Jira, TFS, Version 1, ConnectWise
-* **Industries Supported:** Ecommerce, Call Centers, Internet Marketing, Digital Print, Insurance, Health Insurance Administration, Catalog Mail Order
-* **Operating Systems:** Windows, Windows Server, Mac OSX, Ubuntu &amp; Debian Linux
+* _Development:_ React, Javascript, CSS, Redux-Saga, React Material-UI, Jest, Enzyme, JQuery, Docker, Git, Prettier, Eslint, ASP.NET C#, HTML, Bootstrap, &amp; PHP
+* _Databases:_ SQL, MySQL, and Mongo. Knowledge includes SQL Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing
+* _Software:_ Visual Studio, VSCode, SQL Server Management Studio, Team Foundation Server, xCode, Adobe Photoshop, Access, Visio, Word, Excel
+* _Project Management Tools:_ Jira, TFS, Version 1, ConnectWise
+* _Industries Supported:_ Ecommerce, Call Centers, Internet Marketing, Digital Print, Insurance, Health Insurance Administration, Catalog Mail Order
+* _Operating Systems:_ Windows, Windows Server, Mac OSX, Ubuntu &amp; Debian Linux
 
 ## Work Experience
 
@@ -21,12 +21,12 @@ Alexander is a robust full stack software engineer and technical lead with a str
 <br />
 
 **React Technical Lead**
-* Technical Lead for a team of six developing a ecommerce React UI
+* Technical Lead for a team of six developers building an ecommerce React UI
 * Developed modern React and Redux applications using container component design
 * Designed and created a component library for React applications
 * Led development and documentation of programming and testing standards
 * Partnered with UX team to create design patterns that fit accessibility and branding guidelines
-* Communicated team status and accomplishments to POs, team leads, and management
+* Communicated team status and accomplishments to POs, other team leads, and management
 * Performed code reviews of other developers' code
 
 **.NET Software Engineer**
@@ -45,7 +45,7 @@ Alexander is a robust full stack software engineer and technical lead with a str
 * Created user interface guides, functional specification documents, and test scripts
 
 ### White Oak Technology Group - Bloomington, IL
-Formally ComeToBuy, Inc.
+Formerly ComeToBuy, Inc.
 2002 – 2014
 <br />
 
