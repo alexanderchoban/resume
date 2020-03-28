@@ -1,16 +1,16 @@
 <div align="center">
 <h1>Alexander Choban</h1>
-<p>https://github.com/alexanderchoban</p>
+<p>https://github.com/alexanderchoban/</p>
 </div>
 
 ## Overview
-Alexander is a robust full stack software engineer and technical lead with a strong work ethic and over ten years of experience applying technology to business needs. He has an extremely wide variety of skills including React, Javascript, CSS, Docker, C#, business analysis, database management, server administration, and project management. Alexander has a long history of automating processes, providing solutions, developing ecommerce platforms, and building custom applications. On top of Alexander’s technical prowess, he also has the business acumen and communication skills to work well with others. He has worked with clients to develop and document business requirements in addition to leading and mentoring programmers while working on large and small-scale projects. This mix of technical knowledge, ability to provide solutions, and excellent people skills makes Alexander a star player on any technical team.
+Alexander is a robust technical lead and full stack software engineer with a strong work ethic and over twelve years of experience applying technology to business needs. He has a plethora of skills including software development, business analysis, database management, server administration, and project management. Alexander has a long history of automating processes, providing solutions, developing ecommerce platforms, and building custom applications. On top of Alexander’s technical prowess, he also has the business acumen and communication skills to work well with others. He has worked with clients to develop and document business requirements in addition to leading and mentoring programmers while working on projects of all sizes. This mix of technical knowledge, ability to provide solutions, and excellent people skills makes Alexander an indispensable team member.
 
 ## Technical Skills
-* _Development:_ React, Javascript, CSS, Redux-Saga, React Material-UI, Jest, Enzyme, JQuery, Docker, Git, Prettier, Eslint, ASP.NET C#, HTML, Bootstrap, &amp; PHP
+* _Development:_ React, Javascript, CSS, Redux-Saga, React Material-UI, Jest, Enzyme, ASP.NET, C#, Docker, Git, Prettier, Eslint, HTML, Bootstrap, &amp; JQuery
 * _Databases:_ SQL, MySQL, and Mongo. Knowledge includes SQL Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing
 * _Software:_ Visual Studio, VSCode, SQL Server Management Studio, Team Foundation Server, xCode, Adobe Photoshop, Access, Visio, Word, Excel
-* _Project Management Tools:_ Jira, TFS, Version 1, ConnectWise
+* _Project Management Tools:_ Azure DevOps, Jira, Version 1
 * _Industries Supported:_ Ecommerce, Call Centers, Internet Marketing, Digital Print, Insurance, Health Insurance Administration, Catalog Mail Order
 * _Operating Systems:_ Windows, Windows Server, Mac OSX, Ubuntu &amp; Debian Linux
 
@@ -20,24 +20,31 @@ Alexander is a robust full stack software engineer and technical lead with a str
 2014 - Present
 <br />
 
+**Development Team Supervisor**
+* Works on an Agile Development team in a quality first and constantly improving environment
+* Manages team of .NET Software Engineers and SDET Engineers
+* Responsible for team performance, issues, and morale
+* Sets team goals and wrote performance reviews
+
 **React Technical Lead**
 * Technical Lead for a team of six developers building an ecommerce React UI
 * Developed modern React and Redux applications using container component design
+* Wrote unit and integration tests using Jest and Enzyme
 * Designed and created a component library for React applications
 * Led development and documentation of programming and testing standards
 * Partnered with UX team to create design patterns that fit accessibility and branding guidelines
 * Communicated team status and accomplishments to POs, other team leads, and management
-* Performed code reviews of other developers' code
+* Performed code reviews of colleagues' code
 
 **.NET Software Engineer**
 * Created restful APIs using .NET Core
 * Maintained a custom ecommerce MVC application
 * Managed SQL database design and migrations
-* Wrote unit and integration tests using xUnit, Jest, and Enzyme
+* Wrote and maintained SQL stored procedures
+* Wrote unit and integration tests using xUnit
 * Used docker to build and test containers
 
 **Technical Business Analyst**
-* Worked on an Agile Development team in a quality first and constantly improving environment
 * Led internal team meetings including, Stand ups, Retros, and Sprint Planning
 * Served as a liaison for IT Managers, development staff, and the project stakeholders
 * Performed gap analyses and documented client's business requests 
@@ -50,16 +57,14 @@ Formerly ComeToBuy, Inc.
 <br />
 
 **Lead Web Developer and Programmer**
-* Managed and mentored programming teams of up to five people for small scale and multi-year projects
+* Managed and mentored programming teams for small scale and multi-year projects
 * Designed, created, and modified relationship databases
 * Developed ecommerce websites using NopCommerce, OpenCart, and custom cart solutions
 * Designed, developed, and modified custom web and Windows applications for call centers, health insurance, and catalog mail order industries
-* Completed code reviews
 * Maintained and Modified a complex COBOL .dat file to MSSQL Conversion Process
 
 **Business Analyst and Project Manager**
-* Planned and led internal and client facing meetings for website and custom application business requirements
-* Explained and translated business requirements into technical specifications for programmers
+* Planned and led internal and client facing meetings for business requirements
 * Created project plans and documentation based on client requirements
 * Created use cases using Visio
 * Maintained use cases and task lists for large scale projects and communicated statuses
@@ -71,7 +76,6 @@ Formerly ComeToBuy, Inc.
 * Managed website hosting services in Apache and IIS
 * Managed MSSQL and MySQL databases including: indexes, users, and backups
 * Maintained a Ipswitch iMail Email Server with POP3, SMTP, and IMAP services
-* Created maintenance scripts in both Windows and Linux environments
 * Managed in-office DNS server
 
 **Business Consultant**
