@@ -8,6 +8,7 @@ Alexander is a robust technical lead and full stack software engineer with a str
 
 ## Technical Skills
 * _Development:_ React, Javascript, CSS, Redux-Saga, React Material-UI, Jest, Enzyme, ASP.NET, C#, Docker, Git, Prettier, Eslint, HTML, Bootstrap, &amp; JQuery
+* _Cloud Platforms:_ AWS Lambdas, AWS AppSync, AWS RDS, Terraform
 * _Databases:_ SQL, MySQL, and Mongo. Knowledge includes SQL Stored Procedures, Triggers, Indexing, Packages, &amp; Full Text Indexing
 * _Software:_ Visual Studio, VSCode, SQL Server Management Studio, Team Foundation Server, xCode, Adobe Photoshop, Access, Visio, Word, Excel
 * _Project Management Tools:_ Azure DevOps, Jira, Version 1
@@ -16,15 +17,26 @@ Alexander is a robust technical lead and full stack software engineer with a str
 
 ## Work Experience
 
+### State Farm - Bloomington, IL
+2020 - Present
+<br />
+
+**Lead Software Engineer**
+* Full stack engineer working with React, AWS AppSync, RDS (Postgres), Lambdas
+* Manage and create robust GitOps solutions using docker and Terraform
+* Lead team through finding technical solutions
+* Share PO responsibilities including writing features, developing stories, and comunicating with customers
+* Mentor team members and other employees within the company
+
 ### Taylor Corporation - Bloomington, IL
-2014 - Present
+2014 - 2020
 <br />
 
 **Development Team Supervisor**
-* Works on an Agile Development team in a quality first and constantly improving environment
-* Manages team of .NET Software Engineers and SDET Engineers
+* Worked on an Agile Development team in a quality first and constantly improving environment
+* Managed team of .NET Software Engineers and SDET Engineers
 * Responsible for team performance, issues, and morale
-* Sets team goals and wrote performance reviews
+* Set team goals and wrote performance reviews
 
 **React Technical Lead**
 * Technical Lead for a team of six developers building an ecommerce React UI
